@@ -16,7 +16,9 @@ En primera instancia nos basamos en las investigaciones previas (con el squad an
 A continuación desarrollamos una guía de entrevista para así obtener información real, cualitativa y de forma directa de los posibles usuarios. Al testearla, en un comienzo, con compañeras, notamos que no era bueno tener una lista de preguntas, sino más bien tener claros los puntos a los que uno quiere llegar y eso tomarlo como guía, con un espíritu curioso.
 <a href="https://drive.google.com/drive/folders/1V59xJNIjqSIiVomFk0rnL1w2Ee4O8PWq">Guía aquí </a>
 
-Luego pasamos a las entrevistas, algunas presenciales, otras por audio vía whatsapp. En todos los casos se tomó registro de ello ya sea audiovisual o de audio solamente.
+Luego pasamos a las entrevistas, algunas presenciales, otras por audio vía whatsapp. En todos los casos se tomó registro de ello, ya sea audiovisual o de audio solamente.
 
 ![Entrevistas](https://github.com/naoangel/banking/blob/master/entrevista%20Nati.jpg)
-![Entrevistas](https://github.com/naoangel/banking/blob/master/entrevista%20Tamara.jpg)zSa.{' 
+![Entrevistas](https://github.com/naoangel/banking/blob/master/entrevista%20Tamara.jpg) 
+
+Utilizando el 
