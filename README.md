@@ -11,7 +11,7 @@ Estudiantes UX Design - Laboratoria
 
 <b>PROCESO</b>
 
-En primera instancia nos basamos en las investigaciones previas (con el squad anterior), luego buscamos artículos de interés como referencias para apoyar nuestro proceso de recopilación de datos, desde consejos para aplicar de mejor forma UX a nuestra maraca hasta estudios a los millennials chilenos. 
+En primera instancia nos basamos en las investigaciones previas (con el squad anterior), luego buscamos artículos de interés como referencias para apoyar nuestro proceso de recopilación de datos, desde consejos para aplicar de mejor forma UX a nuestra marca hasta estudios a los millennials chilenos. 
 
 A continuación desarrollamos una guía de entrevista para así obtener información real, cualitativa y de forma directa de los posibles usuarios. Al testearla, en un comienzo, con compañeras, notamos que no era bueno tener una lista de preguntas, sino más bien tener claros los puntos a los que uno quiere llegar y eso tomarlo como guía, con un espíritu curioso.
 <a href="https://drive.google.com/drive/folders/1V59xJNIjqSIiVomFk0rnL1w2Ee4O8PWq">Guía aquí </a>
