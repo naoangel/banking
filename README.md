@@ -1,4 +1,8 @@
 
+
+<center>![banking](https://i.imgur.com/y1nr4Ti.jpg)</center>
+
+
 <b>BANKING</b>
 Proyecto de aplicación móvil bancaria para Millennials.
 Por Jocelyne González y Enid Veneros.
@@ -68,7 +72,7 @@ Debido al poco tiempo con el que contaban y a que siempre traen consigo su smart
 Determinamos el flujo que debía realizar el usuario para consultar un movimiento realizado, ver los detalles del mismo y posteriormente asignarle una categoría. 
 
 **Storytelling**
-Paralelamente fuimos recreando una historia con nuestra User Persona, en la que debía utilizar nuestra aplicación para organizarse financieramente.
+Paralelamente recreamos una historia con nuestra User Persona, en la que debía utilizar nuestra aplicación para organizarse financieramente.
 
 **Sketchs**
 ![Sketch 00](https://i.imgur.com/kLTVepd.jpg)
@@ -81,7 +85,7 @@ Posteriormente digitalizamos los sketchs por medio de Marvel, el cual nos permit
  
 **TEST DE USABILIDAD**
 ![Test Usabilidad](https://i.imgur.com/NP0BOwo.gifv)
-Se genera una lista de tareas a realizar, las cuales tienen por finalidad comparar el modelo mental del usuario con el flujo propuesto por nosotras. El test fue aplicado a 7 personas, 4 mujeres y 3 hombres entre los 24 y 30 años.
+Generamos una lista de tareas a realizar, que tenían por finalidad comparar el modelo mental del usuario con el flujo propuesto. El test fue aplicado a 7 personas, 4 mujeres y 3 hombres entre los 24 y 30 años.
 Para esto les pedimos 
 * Que al revisar la notificación de la app revisaran el último movimiento
 * Que editaran la categoría de este.
@@ -91,9 +95,14 @@ Para esto les pedimos
 
 
 **ITERACIÓN PROTOTIPO**
-De acuerdo al test de usabilidad chequeamos que partes no fueron tan claras de entender por los usuarios y corregimos para obtener un versión 2.0.
-![Banking](https://i.imgur.com/NP0BOwo.gif)
+De acuerdo al test de usabilidad chequeamos que partes no fueron tan claras de entender por los usuarios y corregimos para obtener un versión 2.0. Lo esencial fue reforzar el botón de editar que permitía asignar o modificar una categoría, afinar el tamaño de texto e información dispuesta en los gráficos y adecuar el selector de colores para que no pareciera un campo de texto.
+
+
+![Versión 2.0](https://i.imgur.com/WCiSWW3.jpg)
 
 
 **PRESENTACIÓN**
 <a href="https://drive.google.com/open?id=1mmDR2r98OSeQGXIGEM3yYz_H6_pqJajY"> Ver video Aquí</a>
+
+
+<center>![banking](https://i.imgur.com/y1nr4Ti.jpg)</center>
