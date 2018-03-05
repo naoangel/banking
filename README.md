@@ -9,6 +9,10 @@ Estudiantes UX Design - Laboratoria
   Crear el flujo de una función de la aplicación. 
 
 
+<b>PLANIFICACIÓN</b>
+   Para poder hacer más organizado el proceso, nos propusimos fechas de plazo para realizar cada paso que estimamos necesitaríamos para lograr nuestro objetivo, y a pesar de que en algunos momentos nos vimos algo estancadas, pudimos recuperarnos agilizando en otras partes. <a href="https://drive.google.com/open?id=1RllFfdrEBGcUzHXb_hpTXZVFxoaC52LxDTUA-dbvkak">Planificación aquí</a>
+
+
 <b>PROCESO</b>
 
 En primera instancia nos basamos en las investigaciones previas (con el squad anterior), luego buscamos artículos de interés como referencias para apoyar nuestro proceso de recopilación de datos, desde consejos para aplicar de mejor forma UX a nuestra marca hasta estudios a los millennials chilenos. 
@@ -22,7 +26,7 @@ Luego pasamos a las entrevistas, algunas presenciales, otras por audio vía what
 ![Entrevistas](https://github.com/naoangel/banking/blob/master/entrevista%20Tamara.jpg) 
 
 Utilizando el registro anterior (entrevistas), realizamos una planilla para bajar la información, comparar y acceder a esta misma de manera más ágil.
-<a href=”https://drive.google.com/open?id=1x79dkDgCNXF1xKuzxiaP3IFDdh4dg_d1fGU8tcpj8zs”> Registro aquí</a>
+<a href="https://drive.google.com/open?id=1x79dkDgCNXF1xKuzxiaP3IFDdh4dg_d1fGU8tcpj8zs"> Registro aquí </a>
 
 Como necesitábamos encontrar puntos en común entre los usuarios entrevistados realizamos un **Mapa de Afinidad**, el cual nos pudo entregar insights de los problemas a resolver.
 
@@ -77,9 +81,14 @@ Posteriormente digitalizamos los sketchs por medio de Marvel, el cual nos permit
  
 **Test de Usabilidad**
 ![Test Usabilidad](https://i.imgur.com/NP0BOwo.gifv)
-Se genera una lista de tareas a realizar, las cuales tienen por finalidad comparar el modelo mental del usuario con el flujo propuesto por nosotras. Para esto 
+Se genera una lista de tareas a realizar, las cuales tienen por finalidad comparar el modelo mental del usuario con el flujo propuesto por nosotras. El test fue aplicado a 7 personas, 4 mujeres y 3 hombres entre los 24 y 30 años.
+Para esto les pedimos 
+* Que al revisar la notificación de la app revisaran el último movimiento
+* Que editaran la categoría de este.
+* Que volvieran a chequear para revisar los cambios y nueva información.
+
 
 
 
 **Iteración Prototipo**
-De acuerdo a las 
+De acuerdo al test de usabilidad chequeamos que partes no fueron tan claras de entender por los usuarios y corregimos para obtener un versión 2.0.
