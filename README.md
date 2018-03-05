@@ -79,7 +79,7 @@ Realizamos sketchs para determinar cada pantalla por la que tendría que pasar e
 ![Banking V1.0](https://i.imgur.com/Yr98yuq.png)
 Posteriormente digitalizamos los sketchs por medio de Marvel, el cual nos permite simular la interacción entre cada pantalla. También añadimos el nombre de la aplicación , (Banking), junto con un logo, para darle una identidad al proyecto y luego en base a esto tener algunos colores y estilos visuales predeterminados que permitieran una mayor consistencia durante la navegación.
  
-**Test de Usabilidad**
+**TEST DE USABILIDAD**
 ![Test Usabilidad](https://i.imgur.com/NP0BOwo.gifv)
 Se genera una lista de tareas a realizar, las cuales tienen por finalidad comparar el modelo mental del usuario con el flujo propuesto por nosotras. El test fue aplicado a 7 personas, 4 mujeres y 3 hombres entre los 24 y 30 años.
 Para esto les pedimos 
@@ -90,5 +90,10 @@ Para esto les pedimos
 
 
 
-**Iteración Prototipo**
+**ITERACIÓN PROTOTIPO**
 De acuerdo al test de usabilidad chequeamos que partes no fueron tan claras de entender por los usuarios y corregimos para obtener un versión 2.0.
+![Banking](https://i.imgur.com/NP0BOwo.gif)
+
+
+**PRESENTACIÓN**
+<a href="https://drive.google.com/open?id=1mmDR2r98OSeQGXIGEM3yYz_H6_pqJajY"> Ver video Aquí</a>
