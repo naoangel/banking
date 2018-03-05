@@ -39,7 +39,7 @@ Dentro de los hallazgos que encontramos en los usuarios era la necesidad de pode
 La ajetreada vida de cada uno de estos usuarios, en que su rutina se ve ceñida a diversos factores, como por ejemplo: los horarios rotativos, o extensos, entre jornadas laborales, estudiantiles, o ambas al mismo tiempo, dejar además tiempo para una vida social y familiar, genera un alto desgaste, que los dejaba sin deseos de tener que hacer más nada, ni hablar de trámites. El tiempo libre se les hace valioso y  poco disponible.
 
 **Colocando Categorías**
-![Jossy pegando post it](https://imgur.com/a/6YhPf) 
+![Jossy pegando post it](https://i.imgur.com/1owtlBB.jpg) 
 Encontramos otras categorías que fueron de ayuda también, pero nos enfocamos en las que más resaltaron y quisimos solucionar.
 
 
@@ -47,15 +47,15 @@ Encontramos otras categorías que fueron de ayuda también, pero nos enfocamos e
 
 La información recolectada de las entrevistas, el mapa de afinidad y  diferentes artículos fueron de suma importancia, para la realización de nuestro <a href="https://drive.google.com/open?id=1azknzm8wdQ2t-aE4wMkpto9RxoPHq43xor-YaPIcnEk">User Persona aquí </a>
 
-Entre las varias referencias, la que más nos llamó la atención, fue este <a href=”http://www.adimark.cl/es/estudios/archivo.asp?id=385
-“>estudio de Adimark</a>, que hace espejo a nuestra realidad, en Chile, y compara para ver qué tanto de “millennial” tiene esta generación, que queremos abarcar. Y nos encontramos con que varias cosas no coinciden con el término como tal, pero sí con lo que encontramos investigando. 
+Entre las varias referencias, la que más nos llamó la atención, fue este <a href="http://www.adimark.cl/es/estudios/archivo.asp?id=385
+">estudio de Adimark</a>, que hace espejo a nuestra realidad, en Chile, y compara para ver qué tanto de “millennial” tiene esta generación, que queremos abarcar. Y nos encontramos con que varias cosas no coinciden con el término como tal, pero sí con lo que encontramos investigando. 
 
 
 
 
      
 **Brainstorming**
-![Nuestra respuesta fue un Dashboard](https://imgur.com/a/51xKJ)
+![Nuestra respuesta fue un Dashboard](https://i.imgur.com/DI5tlTg.jpg)
 De acuerdo a nuestro User Persona comenzamos a pensar en diferentes ideas que pudiesen solucionar de alguna manera los problemas encontrados, es así como llegamos a la idea de un dashboard más amigable para al usuario que le permitiera generar categorías de sus gastos y acceder a los mismos con mucho más detalle. 
 
 ![Golden Circle](https://drive.google.com/open?id=167uLga10ITt-VWC1wzbjqpngoXdg2AN4)  
