@@ -1,6 +1,6 @@
 
 
-![banking](https://i.imgur.com/y1nr4Ti.jpg)
+![banking](https://i.imgur.com/bYczP1V.jpg)
 
 
 <b>BANKING</b>
@@ -105,4 +105,4 @@ De acuerdo al test de usabilidad chequeamos que partes no fueron tan claras de e
 <a href="https://drive.google.com/open?id=1mmDR2r98OSeQGXIGEM3yYz_H6_pqJajY"> Ver video Aquí</a>
 
 
-![banking](https://i.imgur.com/y1nr4Ti.jpg)
+![banking](https://i.imgur.com/bYczP1V.jpg)
