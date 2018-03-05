@@ -45,7 +45,7 @@ Encontramos otras categorías que fueron de ayuda también, pero nos enfocamos e
 
 
 
-La información recolectada de las entrevistas, el mapa de afinidad y  diferentes artículos fueron de suma importancia, para la realización de nuestro <a href=”https://drive.google.com/open?id=1azknzm8wdQ2t-aE4wMkpto9RxoPHq43xor-YaPIcnEk”>**User Persona **</a>.
+La información recolectada de las entrevistas, el mapa de afinidad y  diferentes artículos fueron de suma importancia, para la realización de nuestro <a href="https://drive.google.com/open?id=1azknzm8wdQ2t-aE4wMkpto9RxoPHq43xor-YaPIcnEk">User Persona aquí </a>
 
 Entre las varias referencias, la que más nos llamó la atención, fue este <a href=”http://www.adimark.cl/es/estudios/archivo.asp?id=385
 “>estudio de Adimark</a>, que hace espejo a nuestra realidad, en Chile, y compara para ver qué tanto de “millennial” tiene esta generación, que queremos abarcar. Y nos encontramos con que varias cosas no coinciden con el término como tal, pero sí con lo que encontramos investigando. 
