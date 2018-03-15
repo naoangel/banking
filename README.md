@@ -102,5 +102,8 @@ De acuerdo al test de usabilidad chequeamos que partes no fueron tan claras de e
 **PRESENTACIÓN**
 <a href="https://drive.google.com/open?id=1mmDR2r98OSeQGXIGEM3yYz_H6_pqJajY"> Ver video Aquí</a>
 
+**Links a los prototipos**
+<a href="https://marvelapp.com/c2h7a5j">Versión 2.0</a>
+<a href="https://marvelapp.com/40f92ai">Versión 1.0</a>
 
 ![banking](https://i.imgur.com/bYczP1V.jpg)
