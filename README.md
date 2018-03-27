@@ -3,7 +3,8 @@
 # BANKING
 Proyecto de aplicación móvil bancaria para Millennials.
 Por Jocelyne González y Enid Veneros.
-Estudiantes UX Design - Laboratoria
+Estudiantes UX Design-Laboratoria
+
 ![banking](https://i.imgur.com/bYczP1V.jpg)
 
 ## OBJETIVO
