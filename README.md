@@ -1,21 +1,20 @@
-![banking](https://i.imgur.com/bYczP1V.jpg) 
+ 
 
-
-<b>BANKING</b>
+# BANKING
 Proyecto de aplicación móvil bancaria para Millennials.
 Por Jocelyne González y Enid Veneros.
 Estudiantes UX Design - Laboratoria
+![banking](https://i.imgur.com/bYczP1V.jpg)
 
-
-<b>OBJETIVO</b>
+## OBJETIVO
   Crear el flujo de una función de la aplicación. 
 
 
-<b>PLANIFICACIÓN</b>
+## PLANIFICACIÓN
    Para poder hacer más organizado el proceso, nos propusimos fechas de plazo para realizar cada paso que estimamos necesitaríamos para lograr nuestro objetivo, y a pesar de que en algunos momentos nos vimos algo estancadas, pudimos recuperarnos agilizando en otras partes. <a href="https://drive.google.com/open?id=1RllFfdrEBGcUzHXb_hpTXZVFxoaC52LxDTUA-dbvkak">Planificación aquí</a>
 
 
-<b>PROCESO</b>
+## PROCESO
 
 En primera instancia nos basamos en las investigaciones previas (con el squad anterior), luego buscamos artículos de interés como referencias para apoyar nuestro proceso de recopilación de datos, desde consejos para aplicar de mejor forma UX a nuestra marca hasta estudios a los millennials chilenos. 
 
