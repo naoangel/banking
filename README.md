@@ -1,6 +1,8 @@
  
 
 # BANKING
+Laboratoria 2018.
+
 Proyecto de aplicación móvil bancaria para Millennials.
 Por Jocelyne González y Enid Veneros.
 Estudiantes UX Design-Laboratoria
